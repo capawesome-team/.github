@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Blog Posts
 
 on:
   schedule:
@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   update-readme:
-    name: Update this repo's README with latest blog posts
+    name: "Update this repo's README with latest blog posts"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -19,3 +19,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://capawesome.io/feed_rss_created.xml"
+          readme_path: "./profile/README.md"
