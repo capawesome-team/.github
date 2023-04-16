@@ -20,4 +20,3 @@ jobs:
         with:
           feed_list: "https://capawesome.io/feed_rss_created.xml"
           readme_path: "./profile/README.md"
-          disable_sort: true
