@@ -15,8 +15,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Blog](https://capawesome.io/blog/)
-- [Announcing Capacitor ML Kit](https://capawesome.io/blog/announcing-capacitor-mlkit/)
 - [Announcing the Capacitor ML Kit Barcode Scanning Plugin](https://capawesome.io/blog/announcing-the-capacitor-mlkit-barcode-scanner-plugin/)
 - [Announcing the Capacitor NFC Plugin](https://capawesome.io/blog/announcing-the-capacitor-nfc-plugin/)
-- [How to Build an Ionic Barcode Scanner with Capacitor](https://capawesome.io/blog/how-to-build-an-ionic-barcode-scanner-with-capacitor/)
+- [The Push Notifications Guide for Capacitor](https://capawesome.io/blog/the-push-notifications-guide-for-capacitor/)
+- [Announcing Capacitor ML Kit](https://capawesome.io/blog/announcing-capacitor-mlkit/)
 <!-- BLOG-POST-LIST:END -->
