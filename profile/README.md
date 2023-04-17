@@ -13,7 +13,7 @@
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Push Notifications Guide for Capacitor](https://capawesome.io/blog/the-push-notifications-guide-for-capacitor/)
 - [Announcing the Capacitor ML Kit Barcode Scanning Plugin](https://capawesome.io/blog/announcing-the-capacitor-mlkit-barcode-scanner-plugin/)
 - [Announcing the Capacitor NFC Plugin](https://capawesome.io/blog/announcing-the-capacitor-nfc-plugin/)
-- [The Push Notifications Guide for Capacitor](https://capawesome.io/blog/the-push-notifications-guide-for-capacitor/)
 <!-- BLOG-POST-LIST:END -->
