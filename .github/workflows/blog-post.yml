@@ -20,3 +20,6 @@ jobs:
         with:
           feed_list: "https://capawesome.io/feed_rss_created.xml"
           readme_path: "./profile/README.md"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          committer_username: "github-actions[bot]"
+          commit_message: Update blog posts
