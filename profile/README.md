@@ -16,6 +16,6 @@
 - [Announcing the Capacitor Firebase Cloud Firestore Plugin](https://capawesome.io/blog/announcing-the-capacitor-firebase-cloud-firestore-plugin/)
 - [Announcing the Capacitor ML Kit Barcode Scanning Plugin](https://capawesome.io/blog/announcing-the-capacitor-mlkit-barcode-scanner-plugin/)
 - [Announcing the Capacitor NFC Plugin](https://capawesome.io/blog/announcing-the-capacitor-nfc-plugin/)
+- [The File Handling Guide for Capacitor](https://capawesome.io/blog/the-file-handling-guide-for-capacitor/)
 - [The Push Notifications Guide for Capacitor](https://capawesome.io/blog/the-push-notifications-guide-for-capacitor/)
-- [How to patch a Capacitor plugin](https://capawesome.io/blog/how-to-patch-a-capacitor-plugin/)
 <!-- BLOG-POST-LIST:END -->
