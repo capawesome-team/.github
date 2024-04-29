@@ -10,6 +10,10 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+## ☁️ Cloud
+
+Deliver updates to your Capacitor app in **real-time** using the [Capawesome Cloud](https://capawesome.io/cloud/).
+
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
