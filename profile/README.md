@@ -17,9 +17,9 @@ Deliver updates to your Capacitor app in **real-time** using the [Capawesome Clo
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to restrict Capacitor Live Updates to Native Versions](https://capawesome.io/blog/how-to-restrict-capacitor-live-updates-to-native-versions/)
 - [Announcing the Capacitor Live Update Plugin](https://capawesome.io/blog/announcing-the-capacitor-live-update-plugin/)
 - [Updating to Capacitor 6.0](https://capawesome.io/blog/updating-to-capacitor-6/)
 - [The Android Troubleshooting Guide for Capacitor](https://capawesome.io/blog/troubleshooting-capacitor-android-issues/)
 - [The iOS Troubleshooting Guide for Capacitor](https://capawesome.io/blog/troubleshooting-capacitor-ios-issues/)
-- [The File Handling Guide for Capacitor](https://capawesome.io/blog/the-file-handling-guide-for-capacitor/)
 <!-- BLOG-POST-LIST:END -->
