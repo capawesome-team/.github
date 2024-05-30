@@ -17,9 +17,9 @@ Deliver updates to your Capacitor app in **real-time** using the [Capawesome Clo
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to gradually roll out Capacitor Live Updates](https://capawesome.io/blog/how-to-gradually-roll-out-capacitor-live-updates/)
 - [Announcing the Capacitor Bluetooth Low Energy Plugin](https://capawesome.io/blog/announcing-the-capacitor-bluetooth-low-energy-plugin/)
 - [How to restrict Capacitor Live Updates to Native Versions](https://capawesome.io/blog/how-to-restrict-capacitor-live-updates-to-native-versions/)
 - [Announcing the Capacitor Live Update Plugin](https://capawesome.io/blog/announcing-the-capacitor-live-update-plugin/)
 - [Updating to Capacitor 6.0](https://capawesome.io/blog/updating-to-capacitor-6/)
-- [The Android Troubleshooting Guide for Capacitor](https://capawesome.io/blog/troubleshooting-capacitor-android-issues/)
 <!-- BLOG-POST-LIST:END -->
