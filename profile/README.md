@@ -17,9 +17,9 @@ Deliver updates to your Capacitor app in **real-time** using the [Capawesome Clo
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the Capawesome NPM Registry](https://capawesome.io/blog/announcing-the-capawesome-npm-registry/)
 - [Capawesome Cloud as an alternative to Appflow](https://capawesome.io/blog/alternative-to-appflow/)
 - [How to Build a Heart Rate Monitor with Capacitor](https://capawesome.io/blog/how-to-build-a-heart-rate-monitor-with-capacitor/)
 - [How Live Updates for Capacitor work](https://capawesome.io/blog/how-live-updates-for-capacitor-work/)
 - [How to gradually roll out Capacitor Live Updates](https://capawesome.io/blog/how-to-gradually-roll-out-capacitor-live-updates/)
-- [Announcing the Capacitor Bluetooth Low Energy Plugin](https://capawesome.io/blog/announcing-the-capacitor-bluetooth-low-energy-plugin/)
 <!-- BLOG-POST-LIST:END -->
