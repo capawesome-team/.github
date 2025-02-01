@@ -12,7 +12,7 @@
 
 ## ☁️ Cloud
 
-Deliver updates to your Capacitor app in **real-time** using the [Capawesome Cloud](https://capawesome.io/cloud/).
+Deliver updates to your Capacitor app in **real-time** using the [Capawesome Cloud](https://cloud.capawesome.io/).
 
 ## 📕  Blog Posts
 
