@@ -18,8 +18,8 @@ Deliver updates to your Capacitor app in **real-time** using the [Capawesome Clo
 
 <!-- BLOG-POST-LIST:START -->
 - [Capawesome March 2025 Update](https://capawesome.io/blog/2025-march-update/)
+- [Announcing the Capacitor Audio Recorder Plugin](https://capawesome.io/blog/announcing-the-capacitor-audio-recorder-plugin/)
+- [Announcing the Capacitor Contacts Plugin](https://capawesome.io/blog/announcing-the-capacitor-contacts-plugin/)
 - [Capawesome February 2025 Update](https://capawesome.io/blog/2025-february-update/)
 - [Capawesome January 2025 Update](https://capawesome.io/blog/2025-january-update/)
-- [Capawesome December 2024 Update](https://capawesome.io/blog/2024-december-update/)
-- [Changes to the Capawesome Insiders program](https://capawesome.io/blog/capawesome-insiders-goals-changes/)
 <!-- BLOG-POST-LIST:END -->
