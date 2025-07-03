@@ -17,9 +17,9 @@ Deliver updates to your Capacitor app in **real-time** using the [Capawesome Clo
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Capawesome June 2025 Update](https://capawesome.io/blog/2025-june-update/)
 - [Capawesome May 2025 Update](https://capawesome.io/blog/2025-may-update/)
 - [How to Securely Store Credentials with Capacitor](https://capawesome.io/blog/how-to-securely-store-credentials-with-capacitor/)
 - [Capawesome April 2025 Update](https://capawesome.io/blog/2025-april-update/)
 - [Announcing the Biometrics Plugin for Capacitor](https://capawesome.io/blog/announcing-the-capacitor-biometrics-plugin/)
-- [Announcing the Secure Preferences Plugin for Capacitor](https://capawesome.io/blog/announcing-the-capacitor-secure-preferences-plugin/)
 <!-- BLOG-POST-LIST:END -->
