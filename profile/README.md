@@ -17,9 +17,9 @@ Deliver updates to your Capacitor app in **real-time** using the [Capawesome Clo
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Capacitor Biometrics API](https://capawesome.io/blog/exploring-the-capacitor-biometrics-api/)
 - [How to Enable or Disable Developer Mode on iOS](https://capawesome.io/blog/how-to-enable-ios-developer-mode/)
+- [Exploring the Capacitor NFC API](https://capawesome.io/blog/exploring-the-capacitor-nfc-api/)
 - [Capawesome June 2025 Update](https://capawesome.io/blog/2025-june-update/)
 - [Capawesome May 2025 Update](https://capawesome.io/blog/2025-may-update/)
-- [How to Securely Store Credentials with Capacitor](https://capawesome.io/blog/how-to-securely-store-credentials-with-capacitor/)
-- [Capawesome April 2025 Update](https://capawesome.io/blog/2025-april-update/)
 <!-- BLOG-POST-LIST:END -->
