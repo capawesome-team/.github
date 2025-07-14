@@ -23,9 +23,9 @@ Deliver updates to your Capacitor app in **real-time** using the [Capawesome Clo
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Capacitor File Compressor API](https://capawesome.io/blog/exploring-the-capacitor-file-compressor-api/)
 - [Exploring the Capacitor Secure Preferences API](https://capawesome.io/blog/exploring-the-capacitor-secure-preferences-api/)
-- [Install Tailwind CSS with Ionic Framework](https://capawesome.io/blog/install-tailwind-css-with-ionic-framework/)
-- [Exploring the Capacitor Live Update API](https://capawesome.io/blog/exploring-the-capacitor-live-update-api/)
-- [Tailwind CSS Plugin for Ionic Framework](https://capawesome.io/blog/tailwind-css-plugin-for-ionic-framework/)
+- [Showcase: CostPal - Price tracking app for Costco](https://capawesome.io/blog/showcase-costpal/)
+- [Exploring the Capacitor Audio Recorder API](https://capawesome.io/blog/exploring-the-capacitor-audio-recorder-api/)
+- [Exploring the Capacitor Printer API](https://capawesome.io/blog/exploring-the-capacitor-printer-api/)
+- [Exploring the Capacitor File Compressor API](https://capawesome.io/blog/exploring-the-capacitor-file-compressor-api/)
 <!-- BLOG-POST-LIST:END -->
