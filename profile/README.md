@@ -23,9 +23,9 @@ Deliver updates to your Capacitor app in **real-time** using the [Capawesome Clo
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Enable Developer Options on Android](https://capawesome.io/blog/how-to-enable-android-developer-mode/)
 - [Exploring the Capacitor Secure Preferences API](https://capawesome.io/blog/exploring-the-capacitor-secure-preferences-api/)
 - [Showcase: CostPal - Price tracking app for Costco](https://capawesome.io/blog/showcase-costpal/)
 - [Exploring the Capacitor Audio Recorder API](https://capawesome.io/blog/exploring-the-capacitor-audio-recorder-api/)
 - [Exploring the Capacitor Printer API](https://capawesome.io/blog/exploring-the-capacitor-printer-api/)
-- [Exploring the Capacitor File Compressor API](https://capawesome.io/blog/exploring-the-capacitor-file-compressor-api/)
 <!-- BLOG-POST-LIST:END -->
