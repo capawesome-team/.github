@@ -23,8 +23,8 @@ Deliver updates to your Capacitor app in **real-time** using the [Capawesome Clo
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alternative to the Capacitor Community SQLite plugin](https://capawesome.io/blog/alternative-to-capacitor-community-sqlite-plugin/)
 - [Exploring the Capacitor SQLite API](https://capawesome.io/blog/exploring-the-capacitor-sqlite-api/)
+- [Alternative to the Capacitor Community SQLite plugin](https://capawesome.io/blog/alternative-to-capacitor-community-sqlite-plugin/)
 - [Announcing the Capacitor SQLite Plugin](https://capawesome.io/blog/announcing-the-capacitor-sqlite-plugin/)
 - [Showcase: MyBodyTutor - A Personalized Nutrition and Weight Loss Coaching App](https://capawesome.io/blog/showcase-mybodytutor/)
 - [Exploring the Capacitor Speech Recognition API](https://capawesome.io/blog/exploring-the-capacitor-speech-recognition-api/)
