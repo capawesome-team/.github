@@ -23,9 +23,9 @@ Deliver updates to your Capacitor app in **real-time** using the [Capawesome Clo
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the Capacitor Barometer Plugin](https://capawesome.io/blog/announcing-the-capacitor-barometer-plugin/)
+- [Alternative to the Ionic Secure Storage plugin](https://capawesome.io/blog/alternative-to-ionic-secure-storage-plugin/)
 - [Encrypting SQLite databases in Capacitor](https://capawesome.io/blog/encrypting-capacitor-sqlite-database/)
 - [Exploring the Capacitor SQLite API](https://capawesome.io/blog/exploring-the-capacitor-sqlite-api/)
 - [Alternative to the Capacitor Community SQLite plugin](https://capawesome.io/blog/alternative-to-capacitor-community-sqlite-plugin/)
-- [Announcing the Capacitor SQLite Plugin](https://capawesome.io/blog/announcing-the-capacitor-sqlite-plugin/)
-- [Showcase: MyBodyTutor - A Personalized Nutrition and Weight Loss Coaching App](https://capawesome.io/blog/showcase-mybodytutor/)
 <!-- BLOG-POST-LIST:END -->
