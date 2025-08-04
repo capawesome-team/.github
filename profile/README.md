@@ -23,9 +23,9 @@ Deliver updates to your Capacitor app in **real-time** using the [Capawesome Clo
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Showcase: Appreciation Jar - Send appreciative messages to your partner](https://capawesome.io/blog/showcase-appreciation-jar/)
 - [Capawesome July 2025 Update](https://capawesome.io/blog/2025-july-update/)
 - [Exploring the Capacitor Barometer API](https://capawesome.io/blog/exploring-the-capacitor-barometer-api/)
 - [Showcase: LEAGUES - The visual football app](https://capawesome.io/blog/showcase-leagues/)
 - [Announcing the Capacitor Barometer Plugin](https://capawesome.io/blog/announcing-the-capacitor-barometer-plugin/)
-- [Alternative to the Ionic Secure Storage plugin](https://capawesome.io/blog/alternative-to-ionic-secure-storage-plugin/)
 <!-- BLOG-POST-LIST:END -->
