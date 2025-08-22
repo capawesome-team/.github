@@ -23,9 +23,9 @@ Deliver updates to your Capacitor app in **real-time** using the [Capawesome Clo
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Capawesome Cloud Achieves SOC 2 Type 2 Compliance](https://capawesome.io/blog/capawesome-cloud-soc-2-type-2-compliance/)
 - [Showcase: Appreciation Jar - Send appreciative messages to your partner](https://capawesome.io/blog/showcase-appreciation-jar/)
 - [Capawesome July 2025 Update](https://capawesome.io/blog/2025-july-update/)
 - [Exploring the Capacitor Barometer API](https://capawesome.io/blog/exploring-the-capacitor-barometer-api/)
 - [Showcase: LEAGUES - The visual football app](https://capawesome.io/blog/showcase-leagues/)
-- [Announcing the Capacitor Barometer Plugin](https://capawesome.io/blog/announcing-the-capacitor-barometer-plugin/)
 <!-- BLOG-POST-LIST:END -->
