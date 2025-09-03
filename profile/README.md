@@ -23,9 +23,9 @@ Deliver updates to your Capacitor app in **real-time** using the [Capawesome Clo
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Support 16 KB page sizes in Android with Capacitor](https://capawesome.io/blog/support-16kb-page-sizes-with-capacitor/)
 - [Migrating from Capgo to Capawesome Cloud](https://capawesome.io/blog/migrating-from-capgo-to-capawesome-cloud/)
 - [Migrating from Ionic Appflow to Capawesome Cloud](https://capawesome.io/blog/migrating-from-ionic-appflow-to-capawesome-cloud/)
 - [Capawesome Cloud Achieves SOC 2 Type 2 Compliance](https://capawesome.io/blog/capawesome-cloud-soc-2-type-2-compliance/)
 - [Showcase: Appreciation Jar - Send appreciative messages to your partner](https://capawesome.io/blog/showcase-appreciation-jar/)
-- [Capawesome July 2025 Update](https://capawesome.io/blog/2025-july-update/)
 <!-- BLOG-POST-LIST:END -->
