@@ -23,9 +23,9 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Capawesome October 2025 Update](https://capawesome.io/blog/2025-october-update/)
 - [Announcing Capawesome Cloud Native Builds](https://capawesome.io/blog/announcing-capawesome-cloud-native-builds/)
 - [Capawesome September 2025 Update](https://capawesome.io/blog/2025-september-update/)
 - [Capawesome August 2025 Update](https://capawesome.io/blog/2025-august-update/)
 - [Support 16 KB page sizes in Android with Capacitor](https://capawesome.io/blog/support-16kb-page-sizes-with-capacitor/)
-- [Migrating from Capgo to Capawesome Cloud](https://capawesome.io/blog/migrating-from-capgo-to-capawesome-cloud/)
 <!-- BLOG-POST-LIST:END -->
