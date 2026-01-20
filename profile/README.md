@@ -23,9 +23,9 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Capawesome Cloud Web Builds](https://capawesome.io/blog/announcing-capawesome-cloud-web-builds/)
 - [Capawesome December 2025 Update](https://capawesome.io/blog/2025-december-update/)
 - [Updating to Capacitor 8.0](https://capawesome.io/blog/updating-to-capacitor-8/)
 - [Capacitor Live Update Plugin 7.3.0 Release](https://capawesome.io/blog/capacitor-live-update-7-3-0-release/)
 - [Capawesome November 2025 Update](https://capawesome.io/blog/2025-november-update/)
-- [Capawesome October 2025 Update](https://capawesome.io/blog/2025-october-update/)
 <!-- BLOG-POST-LIST:END -->
