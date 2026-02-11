@@ -23,9 +23,9 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the Capacitor OAuth Plugin](https://capawesome.io/blog/announcing-the-capacitor-oauth-plugin/)
+- [Alternative to the Ionic Identity Vault Plugin](https://capawesome.io/blog/alternative-to-ionic-identity-vault-plugin/)
 - [Capawesome January 2026 Update](https://capawesome.io/blog/2026-january-update/)
 - [Capawesome CLI 4.0.0 Release](https://capawesome.io/blog/capawesome-cli-4-0-0-release/)
 - [Channel Pausing for Capawesome Cloud Live Updates](https://capawesome.io/blog/capawesome-cloud-channel-pausing/)
-- [Announcing Capawesome Cloud Web Builds](https://capawesome.io/blog/announcing-capawesome-cloud-web-builds/)
-- [Capawesome December 2025 Update](https://capawesome.io/blog/2025-december-update/)
 <!-- BLOG-POST-LIST:END -->
