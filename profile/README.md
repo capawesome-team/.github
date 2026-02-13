@@ -24,8 +24,8 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 
 <!-- BLOG-POST-LIST:START -->
 - [Alternatives to Ionic Enterprise Plugins](https://capawesome.io/blog/alternatives-to-ionic-enterprise-plugins/)
+- [How to Sign In with Azure Entra ID Using Capacitor](https://capawesome.io/blog/how-to-sign-in-with-azure-entra-id-using-capacitor/)
 - [Alternative to the Ionic Auth Connect Plugin](https://capawesome.io/blog/alternative-to-ionic-auth-connect-plugin/)
 - [Announcing the Capacitor OAuth Plugin](https://capawesome.io/blog/announcing-the-capacitor-oauth-plugin/)
 - [Alternative to the Ionic Identity Vault Plugin](https://capawesome.io/blog/alternative-to-ionic-identity-vault-plugin/)
-- [Capawesome January 2026 Update](https://capawesome.io/blog/2026-january-update/)
 <!-- BLOG-POST-LIST:END -->
