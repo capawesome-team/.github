@@ -23,9 +23,9 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix Capacitor Plugin Build Errors with AGP 9](https://capawesome.io/blog/how-to-fix-capacitor-plugin-build-errors-with-agp-9/)
 - [How to Sign In with Auth0 Using Capacitor](https://capawesome.io/blog/how-to-sign-in-with-auth0-using-capacitor/)
 - [How to Sign In with Google Using Capacitor](https://capawesome.io/blog/how-to-sign-in-with-google-using-capacitor/)
 - [Key-Value Storage Made Simple with the SQLite Plugin](https://capawesome.io/blog/key-value-storage-made-simple-with-the-sqlite-plugin/)
 - [Alternatives to Ionic Enterprise Plugins](https://capawesome.io/blog/alternatives-to-ionic-enterprise-plugins/)
-- [How to Sign In with Azure Entra ID Using Capacitor](https://capawesome.io/blog/how-to-sign-in-with-azure-entra-id-using-capacitor/)
 <!-- BLOG-POST-LIST:END -->
