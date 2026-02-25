@@ -23,9 +23,9 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tips for Setting Up In-App Purchases with Capacitor](https://capawesome.io/blog/tips-for-setting-up-in-app-purchases-with-capacitor/)
 - [Announcing Capawesome Cloud Automations](https://capawesome.io/blog/announcing-capawesome-cloud-automations/)
 - [CI/CD for Capacitor Apps: Choosing the Right Approach](https://capawesome.io/blog/choosing-the-right-ci-cd-approach-for-capacitor-apps/)
 - [How to Fix Capacitor Plugin Build Errors with AGP 9](https://capawesome.io/blog/how-to-fix-capacitor-plugin-build-errors-with-agp-9/)
 - [How to Sign In with Auth0 Using Capacitor](https://capawesome.io/blog/how-to-sign-in-with-auth0-using-capacitor/)
-- [How to Sign In with Google Using Capacitor](https://capawesome.io/blog/how-to-sign-in-with-google-using-capacitor/)
 <!-- BLOG-POST-LIST:END -->
