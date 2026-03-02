@@ -23,9 +23,9 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Sign In with Apple Using Capacitor](https://capawesome.io/blog/how-to-sign-in-with-apple-using-capacitor/)
+- [Capawesome February 2026 Update: Automations, Webhooks, Google Sign-In &amp; More](https://capawesome.io/blog/2026-february-update/)
+- [Channel Surfing with Capacitor Live Updates](https://capawesome.io/blog/capawesome-cloud-channel-surfing/)
 - [How to Use TypeORM with Capacitor and SQLite](https://capawesome.io/blog/how-to-use-typeorm-with-capacitor-and-sqlite/)
 - [How to Use Kysely with Capacitor and SQLite](https://capawesome.io/blog/how-to-use-kysely-with-capacitor-and-sqlite/)
-- [How to Use Drizzle ORM with Capacitor and SQLite](https://capawesome.io/blog/how-to-use-drizzle-orm-with-capacitor-and-sqlite/)
-- [Tips for Setting Up In-App Purchases with Capacitor](https://capawesome.io/blog/tips-for-setting-up-in-app-purchases-with-capacitor/)
-- [Announcing Capawesome Cloud Automations](https://capawesome.io/blog/announcing-capawesome-cloud-automations/)
 <!-- BLOG-POST-LIST:END -->
