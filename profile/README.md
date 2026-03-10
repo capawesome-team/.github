@@ -23,9 +23,9 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Better Auth in Ionic and Capacitor Apps](https://capawesome.io/blog/how-to-use-better-auth-in-capacitor-apps/)
+- [Introducing Capver: Version Management for Capacitor](https://capawesome.io/blog/introducing-capver/)
 - [The App Update Delivery Guide for Capacitor](https://capawesome.io/blog/the-app-update-delivery-guide-for-capacitor/)
 - [How to Reduce the Bundle Size of Capacitor Live Updates](https://capawesome.io/blog/how-to-reduce-the-bundle-size-of-capacitor-live-updates/)
 - [Why Every Capacitor Team Needs a CI/CD Pipeline](https://capawesome.io/blog/why-every-capacitor-team-needs-ci-cd/)
-- [How to Sign In with Apple Using Capacitor](https://capawesome.io/blog/how-to-sign-in-with-apple-using-capacitor/)
-- [Capawesome February 2026 Update: Automations, Webhooks, Google Sign-In &amp; More](https://capawesome.io/blog/2026-february-update/)
 <!-- BLOG-POST-LIST:END -->
