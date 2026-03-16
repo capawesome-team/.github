@@ -23,9 +23,9 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Capawesome CLI 4.5.0 Release](https://capawesome.io/blog/capawesome-cli-4-5-0-release/)
 - [Forced Channel Assignments for Capawesome Cloud Devices](https://capawesome.io/blog/capawesome-cloud-forced-channel-assignments/)
 - [How to Use CocoaPods Instead of SPM with Capacitor](https://capawesome.io/blog/how-to-use-cocoapods-with-capacitor/)
 - [How to Sign In with Okta Using Capacitor](https://capawesome.io/blog/how-to-sign-in-with-okta-using-capacitor/)
 - [How to Use Better Auth in Ionic and Capacitor Apps](https://capawesome.io/blog/how-to-use-better-auth-in-capacitor-apps/)
-- [Introducing Capver: Version Management for Capacitor](https://capawesome.io/blog/introducing-capver/)
 <!-- BLOG-POST-LIST:END -->
