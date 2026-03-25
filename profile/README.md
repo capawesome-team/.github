@@ -23,9 +23,9 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD for Capacitor: Common Pitfalls and How to Avoid Them](https://capawesome.io/blog/ci-cd-for-capacitor-common-pitfalls/)
 - [How to Upgrade Your Capacitor App to Capacitor 8](https://capawesome.io/blog/how-to-upgrade-your-capacitor-app-to-capacitor-8/)
 - [How to Upgrade Your Capacitor Plugin to Capacitor 8](https://capawesome.io/blog/how-to-upgrade-your-capacitor-plugin-to-capacitor-8/)
 - [How Live Updates Are Changing Mobile App Deployment](https://capawesome.io/blog/how-live-updates-are-changing-mobile-app-deployment/)
 - [Using Environment Variables and Secrets in Capawesome Cloud](https://capawesome.io/blog/using-environment-variables-and-secrets-in-capawesome-cloud-builds/)
-- [Announcing Open Source AI Agent Skills for Capacitor](https://capawesome.io/blog/announcing-open-source-ai-agent-skills-for-capacitor/)
 <!-- BLOG-POST-LIST:END -->
