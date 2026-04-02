@@ -23,9 +23,9 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Migrate a Capacitor Plugin to Swift Package Manager](https://capawesome.io/blog/how-to-migrate-a-capacitor-plugin-to-spm/)
 - [Capawesome March 2026 Update: AI Agent Skills, Firestore Data Types, iOS Distribution &amp; More](https://capawesome.io/blog/2026-march-update/)
 - [How to Distribute iOS and Android Apps to Testers](https://capawesome.io/blog/how-to-distribute-ios-and-android-apps-to-testers/)
 - [iOS Certificates and Provisioning Profiles Explained](https://capawesome.io/blog/ios-certificates-and-provisioning-profiles-explained/)
 - [How to Use SPM Package Traits in Capacitor 8](https://capawesome.io/blog/how-to-use-spm-package-traits-in-capacitor/)
-- [CI/CD for Capacitor: Common Pitfalls and How to Avoid Them](https://capawesome.io/blog/ci-cd-for-capacitor-common-pitfalls/)
 <!-- BLOG-POST-LIST:END -->
