@@ -23,9 +23,9 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple&#39;s New Xcode 26 Requirement for Capacitor Apps](https://capawesome.io/blog/xcode-26-requirement-for-capacitor-apps/)
 - [How to Wrap an Angular App with Capacitor and Firebase](https://capawesome.io/blog/how-to-wrap-an-angular-app-with-capacitor-and-firebase/)
 - [How to Build and Deploy iOS Apps Without Owning a Mac](https://capawesome.io/blog/how-to-build-and-deploy-ios-apps-without-a-mac/)
 - [Capawesome CLI 4.7.0 Release](https://capawesome.io/blog/capawesome-cli-4-7-0-release/)
 - [The Right Way to Update Your Capacitor App Remotely](https://capawesome.io/blog/the-right-way-to-update-your-capacitor-app-remotely/)
-- [How to Migrate a Capacitor Plugin to Swift Package Manager](https://capawesome.io/blog/how-to-migrate-a-capacitor-plugin-to-spm/)
 <!-- BLOG-POST-LIST:END -->
