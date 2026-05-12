@@ -23,9 +23,9 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Mobile Apps with Any Web Framework and Capacitor](https://capawesome.io/docs/blog/build-mobile-apps-with-any-web-framework-and-capacitor/)
 - [How to Use AI Agents in Capacitor App Development](https://capawesome.io/docs/blog/how-to-use-ai-agents-in-capacitor-app-development/)
 - [Introducing Capawesome: Mobile App Platform](https://capawesome.io/docs/blog/announcing-capawesome-platform/)
 - [April 2026: Faster API, On-Device Speech, SSO](https://capawesome.io/docs/blog/2026-april-update/)
 - [How to Migrate a Capacitor App to Swift Package Manager](https://capawesome.io/docs/blog/how-to-migrate-a-capacitor-app-to-spm/)
-- [Apple&#39;s New Xcode 26 Requirement for Capacitor Apps](https://capawesome.io/docs/blog/xcode-26-requirement-for-capacitor-apps/)
 <!-- BLOG-POST-LIST:END -->
