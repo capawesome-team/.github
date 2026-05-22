@@ -23,7 +23,7 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Capawesome Cloud Assist: AI-Powered Troubleshooting](https://capawesome.io/docs/blog/announcing-capawesome-cloud-assist/)
+- [Announcing Capawesome Cloud Assist](https://capawesome.io/docs/blog/announcing-capawesome-cloud-assist/)
 - [Capacitor Live Updates: A Complete Guide to OTA Updates](https://capawesome.io/docs/blog/capacitor-live-updates-guide/)
 - [Capacitor CI/CD in 2026: Why Specialization Wins](https://capawesome.io/docs/blog/ci-cd-for-capacitor-apps/)
 - [Best CI/CD Platforms for Capacitor Apps in 2026](https://capawesome.io/docs/blog/comparing-ci-cd-platforms-for-capacitor-apps/)
