@@ -23,9 +23,9 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Built to Last: The Capawesome Story](https://capawesome.io/docs/blog/built-to-last-the-capawesome-story/)
 - [The Best CI/CD Platforms for Cordova Apps in 2026](https://capawesome.io/docs/blog/comparing-ci-cd-platforms-for-cordova-apps/)
 - [The Modern CI/CD Solution for Cordova Apps in 2026](https://capawesome.io/docs/blog/ci-cd-for-cordova-apps/)
 - [Announcing Capawesome Cloud Assist](https://capawesome.io/docs/blog/announcing-capawesome-cloud-assist/)
 - [Capacitor Live Updates: A Complete Guide to OTA Updates](https://capawesome.io/docs/blog/capacitor-live-updates-guide/)
-- [Capacitor CI/CD in 2026: Why Specialization Wins](https://capawesome.io/docs/blog/ci-cd-for-capacitor-apps/)
 <!-- BLOG-POST-LIST:END -->
