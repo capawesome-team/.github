@@ -23,9 +23,9 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build and Deploy iOS Apps with GitLab CI/CD](https://capawesome.io/docs/blog/build-and-deploy-ios-apps-with-gitlab-ci-cd/)
 - [Capacitor Edge-to-Edge &amp; Safe Areas: The Complete Guide](https://capawesome.io/docs/blog/capacitor-edge-to-edge-and-safe-areas-guide/)
 - [Built to Last: The Capawesome Story](https://capawesome.io/docs/blog/built-to-last-the-capawesome-story/)
 - [The Best CI/CD Platforms for Cordova Apps in 2026](https://capawesome.io/docs/blog/comparing-ci-cd-platforms-for-cordova-apps/)
 - [The Modern CI/CD Solution for Cordova Apps in 2026](https://capawesome.io/docs/blog/ci-cd-for-cordova-apps/)
-- [Announcing Capawesome Cloud Assist](https://capawesome.io/docs/blog/announcing-capawesome-cloud-assist/)
 <!-- BLOG-POST-LIST:END -->
