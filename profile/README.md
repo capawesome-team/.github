@@ -23,9 +23,9 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Cordova Support in Capawesome Cloud](https://capawesome.io/docs/blog/announcing-cordova-support-in-capawesome-cloud/)
 - [11 Steps to Get Your Web App on the App Store](https://capawesome.io/docs/blog/11-steps-to-get-your-web-app-on-the-app-store/)
 - [What&#39;s New in Capacitor Firebase 8.3.0](https://capawesome.io/docs/blog/capacitor-firebase-8-3-0-release/)
 - [How to Create Your Apple and Google Developer Accounts](https://capawesome.io/docs/blog/how-to-create-apple-developer-and-google-play-accounts/)
 - [How to Prepare Your App Store Listing](https://capawesome.io/docs/blog/how-to-prepare-your-app-store-listing/)
-- [Build &amp; Ship iOS Apps with Bitbucket Pipelines](https://capawesome.io/docs/blog/build-and-deploy-ios-apps-with-bitbucket/)
 <!-- BLOG-POST-LIST:END -->
