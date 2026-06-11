@@ -23,9 +23,9 @@ Build, publish and update your Capacitor apps using the [Capawesome Cloud](https
 ## 📕  Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Cordova iOS App Without a Mac](https://capawesome.io/docs/blog/build-cordova-ios-app-without-a-mac/)
 - [Cordova Hot Code Push Alternative for OTA Updates](https://capawesome.io/docs/blog/cordova-hot-code-push-alternative/)
 - [Cordova Live Updates: A Complete Guide to OTA Updates](https://capawesome.io/docs/blog/cordova-live-updates-guide/)
 - [Announcing Cordova Support in Capawesome Cloud](https://capawesome.io/docs/blog/announcing-cordova-support-in-capawesome-cloud/)
 - [11 Steps to Get Your Web App on the App Store](https://capawesome.io/docs/blog/11-steps-to-get-your-web-app-on-the-app-store/)
-- [What&#39;s New in Capacitor Firebase 8.3.0](https://capawesome.io/docs/blog/capacitor-firebase-8-3-0-release/)
 <!-- BLOG-POST-LIST:END -->
