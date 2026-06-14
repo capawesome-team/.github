@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [New CLIs &amp; Xcode 26 in Capawesome Build Stacks](https://capawesome.io/docs/blog/new-clis-and-xcode-26-in-capawesome-build-stacks/)
 - [May 2026: Platform, Dark Mode &amp; AI Summaries](https://capawesome.io/docs/blog/2026-may-update/)
 - [How to Build a Cordova iOS App Without a Mac](https://capawesome.io/docs/blog/build-cordova-ios-app-without-a-mac/)
 - [Cordova Hot Code Push Alternative for OTA Updates](https://capawesome.io/docs/blog/cordova-hot-code-push-alternative/)
 - [Cordova Live Updates: A Complete Guide to OTA Updates](https://capawesome.io/docs/blog/cordova-live-updates-guide/)
-- [Announcing Cordova Support in Capawesome Cloud](https://capawesome.io/docs/blog/announcing-cordova-support-in-capawesome-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
