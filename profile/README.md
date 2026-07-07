@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [June 2026: Cordova, Vault &amp; SQLite Extensions](https://capawesome.io/docs/blog/2026-june-update/)
 - [Convert Your Lovable App to iOS &amp; Android Apps](https://capawesome.io/docs/blog/convert-lovable-app-to-mobile-app/)
 - [How to Use Custom SQLite Extensions in Capacitor](https://capawesome.io/docs/blog/how-to-use-custom-sqlite-extensions-with-capacitor/)
 - [New CLIs &amp; Xcode 26 in Capawesome Build Stacks](https://capawesome.io/docs/blog/new-clis-and-xcode-26-in-capawesome-build-stacks/)
 - [May 2026: Platform, Dark Mode &amp; AI Summaries](https://capawesome.io/docs/blog/2026-may-update/)
-- [How to Build a Cordova iOS App Without a Mac](https://capawesome.io/docs/blog/build-cordova-ios-app-without-a-mac/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
