@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Desktop App with Capacitor and Electron](https://capawesome.io/docs/blog/how-to-build-a-desktop-app-with-capacitor-and-electron/)
 - [Capacitor Tauri Platform: Lean Desktop Apps](https://capawesome.io/docs/blog/announcing-the-capacitor-tauri-platform/)
 - [Capacitor Electron Platform: Build Desktop Apps](https://capawesome.io/docs/blog/announcing-the-capacitor-electron-platform/)
 - [Share Mobile App Builds with Testers via Link &amp; QR Code](https://capawesome.io/docs/blog/share-mobile-app-builds-with-testers/)
 - [June 2026: Cordova, Vault &amp; SQLite Extensions](https://capawesome.io/docs/blog/2026-june-update/)
-- [Convert Your Lovable App to iOS &amp; Android Apps](https://capawesome.io/docs/blog/convert-lovable-app-to-mobile-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
