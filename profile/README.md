@@ -14,7 +14,7 @@ Capawesome helps teams ship Capacitor and Cordova apps faster. We maintain **100
 
 ## ✨ Why Capawesome
 
-- 🌍 **100+ open-source SDKs** with **5M+ monthly downloads**
+- 🌍 **200+ open-source SDKs** with **10M+ monthly downloads**
 - 🏢 **Enterprise-grade** support for teams of every size
 - 🔓 **Open source** and community-driven
 - ⚡ Built for **Android, iOS, Capacitor, Cordova, Electron &amp; Tauri** — with more frameworks on the way
