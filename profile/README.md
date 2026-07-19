@@ -2,7 +2,7 @@
 
 # Capawesome
 
-**Enterprise-grade SDKs, Cloud, and developer tools for building cross-platform apps with Capacitor &amp; Cordova.**
+**Enterprise-grade SDKs, Cloud, and developer tools for teams building cross-platform mobile apps.**
 
 [Website](https://capawesome.io/) · [Documentation](https://capawesome.io/docs/) · [Blog](https://capawesome.io/blog/) · [Discord](https://discord.gg/VCXxSVjefW) · [Newsletter](https://capawesome.io/newsletter)
 
