@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Capacitor Privacy Screen: Hide Sensitive App Content](https://capawesome.io/docs/blog/capacitor-privacy-screen-hide-app-content/)
 - [Revamped Git Integrations in Capawesome Cloud](https://capawesome.io/docs/blog/git-integration-revamp-in-capawesome-cloud/)
 - [Capacitor ML Kit 8.2.0: 14 New Plugins](https://capawesome.io/docs/blog/capacitor-mlkit-8-2-0-release/)
 - [Electron vs. Tauri for Capacitor Apps](https://capawesome.io/docs/blog/electron-vs-tauri-for-capacitor-apps/)
 - [Migrate Off Capacitor Community Electron](https://capawesome.io/docs/blog/capacitor-community-electron-migration/)
-- [The Complete Guide to Capacitor Device Sensors](https://capawesome.io/docs/blog/capacitor-device-sensors-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
