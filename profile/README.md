@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Track App Events with Firebase Analytics in Capacitor](https://capawesome.io/docs/blog/capacitor-firebase-analytics-guide/)
 - [Upload &amp; Manage Files with Firebase Storage in Capacitor](https://capawesome.io/docs/blog/capacitor-firebase-cloud-storage-guide/)
 - [Capacitor Firestore: Real-Time Data &amp; Offline Sync](https://capawesome.io/docs/blog/capacitor-firebase-cloud-firestore-guide/)
 - [Firebase Authentication in Capacitor: Setup &amp; Best Practices](https://capawesome.io/docs/blog/capacitor-firebase-authentication-guide/)
 - [Capacitor Privacy Screen: Hide Sensitive App Content](https://capawesome.io/docs/blog/capacitor-privacy-screen-hide-app-content/)
-- [Revamped Git Integrations in Capawesome Cloud](https://capawesome.io/docs/blog/git-integration-revamp-in-capawesome-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
