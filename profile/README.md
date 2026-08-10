@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Capacitor Live Updates: Reliability &amp; Uptime](https://capawesome.io/docs/blog/capacitor-live-updates-reliability-and-uptime/)
 - [How to Detect Satellite Networks in Capacitor](https://capawesome.io/docs/blog/how-to-detect-satellite-networks-in-a-capacitor-app/)
 - [How to Detect the Network Status in Capacitor](https://capawesome.io/docs/blog/how-to-detect-the-network-status-in-a-capacitor-app/)
 - [Capawesome CLI 4.18.0 Release](https://capawesome.io/docs/blog/capawesome-cli-4-18-0-release/)
 - [July 2026: Desktop Platforms &amp; 58 New Plugins](https://capawesome.io/docs/blog/2026-july-update/)
-- [How to Use SQLite in a Capacitor App](https://capawesome.io/docs/blog/how-to-use-sqlite-in-a-capacitor-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
