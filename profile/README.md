@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Best OTA Update Tools for Capacitor &lpar;2026&rpar;](https://capawesome.io/docs/blog/best-ota-update-tools-for-capacitor/)
+- [Google Play Contacts Policy 2027 for Capacitor](https://capawesome.io/docs/blog/capacitor-google-play-contacts-policy-2027/)
 - [Capacitor Live Updates: Signing vs Encryption](https://capawesome.io/docs/blog/capacitor-live-updates-end-to-end-encryption/)
 - [Capacitor Live Updates: Reliability &amp; Uptime](https://capawesome.io/docs/blog/capacitor-live-updates-reliability-and-uptime/)
 - [Shipaton 2026: Ship in Seconds, Not Days](https://capawesome.io/docs/blog/shipaton-2026/)
-- [How to Detect Satellite Networks in Capacitor](https://capawesome.io/docs/blog/how-to-detect-satellite-networks-in-a-capacitor-app/)
-- [How to Detect the Network Status in Capacitor](https://capawesome.io/docs/blog/how-to-detect-the-network-status-in-a-capacitor-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
