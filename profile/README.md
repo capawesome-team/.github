@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Google Fit to Health Connect in Capacitor](https://capawesome.io/docs/blog/google-fit-to-health-connect-migration-in-capacitor/)
-- [Best OTA Update Tools for Capacitor &lpar;2026&rpar;](https://capawesome.io/docs/blog/best-ota-update-tools-for-capacitor/)
-- [Google Play Contacts Policy 2027 for Capacitor](https://capawesome.io/docs/blog/capacitor-google-play-contacts-policy-2027/)
-- [Capacitor Live Updates: Signing vs Encryption](https://capawesome.io/docs/blog/capacitor-live-updates-end-to-end-encryption/)
-- [Capacitor Live Updates: Reliability &amp; Uptime](https://capawesome.io/docs/blog/capacitor-live-updates-reliability-and-uptime/)
+- [An Alternative to cordova-plugin-file-transfer](https://capawesome.io/blog/alternative-to-cordova-plugin-file-transfer/)
+- [Migrating from Google Fit to Health Connect in Capacitor](https://capawesome.io/blog/google-fit-to-health-connect-migration-in-capacitor/)
+- [Best OTA Update Tools for Capacitor &lpar;2026&rpar;](https://capawesome.io/blog/best-ota-update-tools-for-capacitor/)
+- [Google Play Contacts Policy 2027 for Capacitor](https://capawesome.io/blog/capacitor-google-play-contacts-policy-2027/)
+- [Capacitor Live Updates: Signing vs Encryption](https://capawesome.io/blog/capacitor-live-updates-end-to-end-encryption/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
