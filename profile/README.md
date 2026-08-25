@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Audio Player 8.4.0: Playlists and Media Session Support](https://capawesome.io/blog/capacitor-audio-player-8-4-0-release/)
+- [How to Play Audio in the Background in a Capacitor App](https://capawesome.io/blog/how-to-play-audio-in-the-background-in-capacitor/)
 - [A Google Maps Alternative for Capacitor Apps](https://capawesome.io/blog/alternative-to-the-capacitor-google-maps-plugin/)
 - [Announcing the Capacitor Geofences Plugin](https://capawesome.io/blog/announcing-the-capacitor-geofences-plugin/)
 - [How to Build a Wear OS App for Your Capacitor App](https://capawesome.io/blog/how-to-build-a-wear-os-app-for-your-capacitor-app/)
-- [An Alternative to cordova-plugin-file-transfer](https://capawesome.io/blog/alternative-to-cordova-plugin-file-transfer/)
-- [Migrating from Google Fit to Health Connect in Capacitor](https://capawesome.io/blog/google-fit-to-health-connect-migration-in-capacitor/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
