@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Crash Reporting in a Capacitor App with Crashlytics](https://capawesome.io/blog/capacitor-firebase-crashlytics-guide/)
 - [Announcing the Capacitor MapLibre Plugin](https://capawesome.io/blog/announcing-the-capacitor-maplibre-plugin/)
 - [Announcing the Capacitor File Transfer Plugin](https://capawesome.io/blog/announcing-the-capacitor-file-transfer-plugin/)
 - [Announcing the Capacitor Health Plugin](https://capawesome.io/blog/announcing-the-capacitor-health-plugin/)
 - [How to Handle AdMob GDPR Consent &lpar;UMP&rpar; in a Capacitor App](https://capawesome.io/blog/how-to-handle-admob-gdpr-consent-in-a-capacitor-app/)
-- [Audio Player 8.4.0: Playlists and Media Session Support](https://capawesome.io/blog/capacitor-audio-player-8-4-0-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
