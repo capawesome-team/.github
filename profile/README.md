@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Feature Flags in a Capacitor App with Remote Config](https://capawesome.io/blog/capacitor-firebase-remote-config-guide/)
 - [Call Firebase Cloud Functions from a Capacitor App](https://capawesome.io/blog/capacitor-firebase-cloud-functions-guide/)
 - [Announcing the Capacitor Document Scanner Plugin](https://capawesome.io/blog/announcing-the-capacitor-document-scanner-plugin/)
 - [Announcing the Capacitor Background Geolocation Plugin](https://capawesome.io/blog/announcing-the-capacitor-background-geolocation-plugin/)
 - [Embedded Barcode Scanner with Camera Preview in Capacitor](https://capawesome.io/blog/capacitor-embedded-barcode-scanner/)
-- [Announcing the Capacitor Watch Plugin](https://capawesome.io/blog/announcing-the-capacitor-watch-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
