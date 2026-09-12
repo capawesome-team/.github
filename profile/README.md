@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Monitor App Performance in Capacitor with Firebase](https://capawesome.io/blog/capacitor-firebase-performance-monitoring-guide/)
+- [Capawesome vs. Capgo: Which Is More Reliable?](https://capawesome.io/blog/capawesome-cloud-vs-capgo-reliability/)
 - [Announcing the Capacitor LLM Plugin](https://capawesome.io/blog/announcing-the-capacitor-llm-plugin/)
 - [Announcing the Capacitor AdMob Plugin](https://capawesome.io/blog/announcing-the-capacitor-admob-plugin/)
 - [Announcing the Capacitor Calendar Plugin](https://capawesome.io/blog/announcing-the-capacitor-calendar-plugin/)
-- [Android Scoped Storage in Capacitor Apps, Explained](https://capawesome.io/blog/android-scoped-storage-in-capacitor-apps/)
-- [Ionic Framework MCP Server for Your AI Assistant](https://capawesome.io/blog/ionic-framework-mcp-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
