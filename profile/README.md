@@ -10,7 +10,7 @@
 
 ---
 
-Capawesome helps teams ship Capacitor and Cordova apps faster. We maintain **100+ high-quality native SDKs** with over **5,000,000 monthly downloads**, and run a cloud platform for Live Updates, Native Builds, and App Store Publishing. More [frameworks](https://capawesome.io/docs/frameworks/) are on the way.
+Capawesome helps teams ship Capacitor and Cordova apps faster. We maintain **200+ high-quality native SDKs** with over **10,000,000 monthly downloads**, and run a cloud platform for Live Updates, Native Builds, and App Store Publishing. More [frameworks](https://capawesome.io/docs/frameworks/) are on the way.
 
 ## ✨ Why Capawesome
 
