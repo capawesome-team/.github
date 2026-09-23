@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Authentication to a Capacitor App](https://capawesome.io/blog/how-to-add-authentication-to-a-capacitor-app/)
-- [How to Sign &amp; Build Capacitor Apps in the Cloud](https://capawesome.io/blog/how-to-sign-and-build-your-capacitor-app-in-the-cloud/)
-- [How to Use Firebase in a Capacitor App](https://capawesome.io/blog/how-to-use-firebase-in-a-capacitor-app/)
-- [Monitor App Performance in Capacitor with Firebase](https://capawesome.io/blog/capacitor-firebase-performance-monitoring-guide/)
-- [Capawesome vs. Capgo: Which Is More Reliable?](https://capawesome.io/blog/capawesome-cloud-vs-capgo-reliability/)
+- [Why Are Your Geofences Not Triggering on iOS?](https://capawesome.io/blog/why-are-your-geofences-not-triggering-on-ios/)
+- [Announcing Our Official Partnership with Ionic](https://capawesome.io/blog/announcing-partnership-with-ionic/)
+- [How to Manage Recurring Calendar Events in Capacitor](https://capawesome.io/blog/recurring-calendar-events-in-capacitor/)
+- [Announcing the Capacitor File Manager Plugin](https://capawesome.io/blog/announcing-the-capacitor-file-manager-plugin/)
+- [Migrating Ionic Portals Live Updates to Capawesome Cloud](https://capawesome.io/blog/migrating-ionic-portals-live-updates-from-appflow-to-capawesome/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
