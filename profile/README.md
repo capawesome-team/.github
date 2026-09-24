@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build an Apple Watch App for Your Capacitor App](https://capawesome.io/blog/how-to-build-an-apple-watch-app-for-your-capacitor-app/)
 - [Why Are Your Geofences Not Triggering on iOS?](https://capawesome.io/blog/why-are-your-geofences-not-triggering-on-ios/)
 - [Announcing Our Official Partnership with Ionic](https://capawesome.io/blog/announcing-partnership-with-ionic/)
 - [How to Manage Recurring Calendar Events in Capacitor](https://capawesome.io/blog/recurring-calendar-events-in-capacitor/)
 - [Announcing the Capacitor File Manager Plugin](https://capawesome.io/blog/announcing-the-capacitor-file-manager-plugin/)
-- [Migrating Ionic Portals Live Updates to Capawesome Cloud](https://capawesome.io/blog/migrating-ionic-portals-live-updates-from-appflow-to-capawesome/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
