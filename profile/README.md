@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Take and Edit Photos in a Capacitor App](https://capawesome.io/blog/how-to-take-and-edit-photos-in-a-capacitor-app/)
 - [Why iOS Stops Sending Background Location Updates](https://capawesome.io/blog/why-ios-stops-background-location-updates/)
 - [Announcing the macOS Golden Gate Build Stack](https://capawesome.io/blog/announcing-the-macos-golden-gate-build-stack/)
 - [How to Build an Apple Watch App for Your Capacitor App](https://capawesome.io/blog/how-to-build-an-apple-watch-app-for-your-capacitor-app/)
 - [Why Are Your Geofences Not Triggering on iOS?](https://capawesome.io/blog/why-are-your-geofences-not-triggering-on-ios/)
-- [Announcing Our Official Partnership with Ionic](https://capawesome.io/blog/announcing-partnership-with-ionic/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
