@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Scan a Document to PDF in a Capacitor App](https://capawesome.io/blog/how-to-scan-a-document-to-pdf-in-a-capacitor-app/)
 - [How to Use Gemini Nano in a Capacitor App](https://capawesome.io/blog/how-to-use-gemini-nano-in-a-capacitor-app/)
 - [Publish a Capacitor App on Huawei AppGallery](https://capawesome.io/blog/how-to-publish-a-capacitor-app-on-huawei-appgallery/)
 - [Build and Deploy iOS Apps with Gitea Actions](https://capawesome.io/blog/build-and-deploy-ios-apps-with-gitea-actions/)
 - [How to Take and Edit Photos in a Capacitor App](https://capawesome.io/blog/how-to-take-and-edit-photos-in-a-capacitor-app/)
-- [Why iOS Stops Sending Background Location Updates](https://capawesome.io/blog/why-ios-stops-background-location-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
