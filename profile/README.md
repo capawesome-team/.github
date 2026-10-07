@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix AdMob Banner Overlap in a Capacitor App](https://capawesome.io/blog/how-to-fix-admob-banner-overlap-in-capacitor/)
+- [Capawesome September 2026 Update: Ionic Partnership &amp; More](https://capawesome.io/blog/2026-september-update/)
+- [Persistent Folder Access in Capacitor Apps](https://capawesome.io/blog/capacitor-persistent-folder-access/)
+- [Downloading Files in the Background in Capacitor](https://capawesome.io/blog/how-to-download-files-in-the-background-in-capacitor/)
 - [Capacitor Barcode Scanning Without Google Play Services](https://capawesome.io/blog/capacitor-barcode-scanning-without-google-play-services/)
-- [MapLibre vs. Google Maps: Which Map SDK to Use?](https://capawesome.io/blog/maplibre-vs-google-maps/)
-- [How to Scan a Document to PDF in a Capacitor App](https://capawesome.io/blog/how-to-scan-a-document-to-pdf-in-a-capacitor-app/)
-- [How to Use Gemini Nano in a Capacitor App](https://capawesome.io/blog/how-to-use-gemini-nano-in-a-capacitor-app/)
-- [Publish a Capacitor App on Huawei AppGallery](https://capawesome.io/blog/how-to-publish-a-capacitor-app-on-huawei-appgallery/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
