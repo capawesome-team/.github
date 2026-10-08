@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Reading Step Counts on iOS and Android with Capacitor](https://capawesome.io/blog/how-to-read-step-counts-in-a-capacitor-app/)
 - [How to Fix AdMob Banner Overlap in a Capacitor App](https://capawesome.io/blog/how-to-fix-admob-banner-overlap-in-capacitor/)
 - [Capawesome September 2026 Update: Ionic Partnership &amp; More](https://capawesome.io/blog/2026-september-update/)
 - [Persistent Folder Access in Capacitor Apps](https://capawesome.io/blog/capacitor-persistent-folder-access/)
 - [Downloading Files in the Background in Capacitor](https://capawesome.io/blog/how-to-download-files-in-the-background-in-capacitor/)
-- [Capacitor Barcode Scanning Without Google Play Services](https://capawesome.io/blog/capacitor-barcode-scanning-without-google-play-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
