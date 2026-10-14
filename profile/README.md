@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Capacitor Calendar Permissions on iOS 17+ and Android](https://capawesome.io/blog/capacitor-calendar-permissions/)
 - [An Alternative to cordova-plugin-document-scanner](https://capawesome.io/blog/alternative-to-cordova-plugin-document-scanner/)
 - [How to Track Location in the Background with Capacitor](https://capawesome.io/blog/how-to-track-location-in-the-background-with-capacitor/)
 - [Auto-Submit a Capacitor App to TestFlight and Google Play](https://capawesome.io/blog/auto-submit-capacitor-app-to-testflight-and-google-play/)
 - [Google Play DEX Code Optimization in Capacitor Apps](https://capawesome.io/blog/google-play-dex-code-optimization-in-capacitor-apps/)
-- [How to Add Geofencing to an Ionic App](https://capawesome.io/blog/how-to-add-geofencing-to-an-ionic-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
