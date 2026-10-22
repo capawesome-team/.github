@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Working Around the 20-Geofence Limit on iOS](https://capawesome.io/blog/how-to-work-around-the-ios-geofence-limit/)
 - [An Alternative to the Capacitor Community AdMob Plugin](https://capawesome.io/blog/alternative-to-capacitor-community-admob/)
 - [How to Check HealthKit Read Permission Status in Capacitor](https://capawesome.io/blog/how-to-check-healthkit-read-permission-status/)
 - [An Alternative to the Official Capacitor Watch Plugin](https://capawesome.io/blog/alternative-to-the-official-capacitor-watch-plugin/)
 - [Batch Barcode Scanning in a Capacitor App](https://capawesome.io/blog/capacitor-batch-barcode-scanning/)
-- [Pause and Resume Downloads in Capacitor](https://capawesome.io/blog/how-to-pause-and-resume-downloads-in-capacitor/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
