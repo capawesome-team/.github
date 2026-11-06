@@ -54,11 +54,11 @@ Moving off **Ionic Appflow** or the discontinued **Ionic Enterprise SDK**? We ha
 ## 📕 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Tracking Upload Progress in Capacitor](https://capawesome.io/blog/how-to-track-upload-progress-in-capacitor/)
 - [Build a Receipt Scanner App with Ionic and Capacitor](https://capawesome.io/blog/build-a-receipt-scanner-app-with-ionic-and-capacitor/)
 - [How to Add Events to the Device Calendar in an Ionic App](https://capawesome.io/blog/how-to-add-events-to-the-device-calendar-in-an-ionic-app/)
 - [Capawesome October 2026 Update: Electron Live Updates &amp; More](https://capawesome.io/blog/2026-october-update/)
 - [Build an Offline AI Chatbot with Capacitor](https://capawesome.io/blog/build-an-offline-ai-chatbot-with-capacitor/)
-- [Reading Large Files in Capacitor Without base64](https://capawesome.io/blog/reading-large-files-in-capacitor-without-base64/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Connect with us
